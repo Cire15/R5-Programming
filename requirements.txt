@@ -1,0 +1,6 @@
+##### Motors #####
+RPi.GPIO
+
+##### Vision #####
+numpy
+cv2
