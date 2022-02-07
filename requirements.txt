@@ -4,3 +4,5 @@ RPi.GPIO
 ##### Vision #####
 numpy
 cv2
+
+# Written from IDE, if this shows in github, I do remember how to push
